@@ -1,11 +1,11 @@
 # W# (WinHash) Manipal Hackathon 2024 
 **Team Name:** W# (WinHash)
 Project Build by:
-1. Yashraj Sakunde
+1. Rishit Kumar
 2. Aditanshu Sahu
-3. Jayesh Raheja
-4. Rishit Kumar
-5. Yashvardhan Singh
+3. Yashraj Sakunde
+4. Yashvardhan Singh
+5. Jayesh Raheja
 
 ![m# watermark](https://github.com/user-attachments/assets/e80ea404-cfbc-4929-9e80-cef869f81009)
 
